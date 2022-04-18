@@ -1,0 +1,6 @@
+module lectura_archivo()
+
+
+
+
+endmodule
